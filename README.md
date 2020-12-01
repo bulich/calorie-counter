@@ -1,5 +1,10 @@
 # calorie-counter
 
+## Demo
+```
+[Calorie Counter App](https://bulich.github.io/calorie-counter/)
+```
+
 ## Project setup
 ```
 npm install
